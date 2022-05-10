@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potato6966&show_icons=true&locale=en" alt="potato6966" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potato6966&" alt="potato6966" /></p>
+
+**Discord Stats**
+https://discord.com/users/883292144725544981
