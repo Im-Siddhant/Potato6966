@@ -31,5 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potato6966&" alt="potato6966" /></p>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/844863061907210251)](https://discord.com/users/883292144725544981)
+[![Discord Presence](https://lanyard.cnrad.dev/api/883292144725544981)](https://discord.com/users/883292144725544981)
 
