@@ -31,4 +31,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potato6966&" alt="potato6966" /></p>
 
 **Discord Stats**
-https://discord.com/users/883292144725544981
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potato6966&" alt="potato6966" /></p>
+
+<p><img align="center" src="https://discord.com/users/81440962496172032https://discord.com/users/81440962496172032" alt="potato6966" /></p>
+
+<p><img align="center" src="https://discord.com/users/81440962496172032https://discord.com/users/81440962496172032" alt="potato6966" /></p>
